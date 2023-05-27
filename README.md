@@ -1,8 +1,8 @@
-# _{first-submission}_
+# _first-submission_
 
-#### By _**{Moshe Atia Poston}**_
+#### By _**Moshe Atia Poston**_
 
-#### _{Portfolis webpage (landing page)}_
+#### _Portfolis webpage (landing page)_
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-_{This project is a portfolio webpage created using HTML and CSS. It serves as a landing page to showcasing my programming portfolio. The project emphasizes building the webpage from scratch without using a template.}_
+_This project is a portfolio webpage created using HTML and CSS. It serves as a landing page to showcasing my programming portfolio. The project emphasizes building the webpage from scratch without using a template._
 
 ## Setup/Installation Requirements
 
@@ -25,6 +25,6 @@ _{This project is a portfolio webpage created using HTML and CSS. It serves as a
 
 ## License
 
-_{MIT}_
+_MIT_
 
 Copyright (c) _2023_ _Moshe Atia Poston_
