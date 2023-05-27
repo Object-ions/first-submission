@@ -4,6 +4,13 @@
   box-sizing: border-box;
   font-family: 'Lato', sans-serif;
 }
+
+body{
+  background-color: #faf9f8;
+  color: #333333;
+  text-align: center;
+}
+
 h1{
   font-family: 'Abril Fatface', cursive;
   text-transform: uppercase;
@@ -11,24 +18,62 @@ h1{
 
 h2{
   font-size: 137px;
-}
-
-h5{
-
+  color: #dddcda;
+  text-transform: uppercase;
 }
 
 p{
   font-size: 13px;
 }
 
-ul{
-
-}
-
 img{
   width: 250px;
 }
 
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+}
+
+
+/* classes */
 .nav{
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.nav ul{
+  padding: 150px;
+}
+
+.nav li{
+  color: #faf9f8;
+  display: inline;
+}
+
+.nav a{
+  color: #faf9f8;
+  margin: 0 20px;
+  text-decoration: none;
+}
+
+.nav a:hover{
+  background-color: #111111;
+}
+.nav a:active {
+  background-color: #111111;
+}
+
+.float-left{
+  float: left;
+}
+
+/* ID's */
+
+#logotype{
   font-size: 15px;
+  text-align: left;
+  text-transform: uppercase;
 }
