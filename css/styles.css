@@ -13,23 +13,25 @@ body{
   text-align: center;
 }
 
-h1{
-  font-family: 'Abril Fatface', cursive;
-  text-transform: uppercase;
-}
-
 h2{
   font-size: 137px;
   color: #dddcda;
   text-transform: uppercase;
+  font-family: 'Abril Fatface', cursive;
+}
+
+h3{
+  font-size: 20px;
+  margin-bottom: 25px;
 }
 
 p{
   font-size: 13px;
+  margin-bottom: 5px;
 }
 
 div{
-  /* border: solid black 5px; */
+  border: solid black 2px;
   max-width: 700px;
 }
 
@@ -38,6 +40,7 @@ img{
   padding: 0;
   margin: 0;
   display: inline;
+  opacity: 0.8;
 }
 
 ul{
@@ -101,13 +104,22 @@ em{
 
 .center{
   position: absolute;
-  top: 10%;
+}
+
+.vertical{
+  padding: 10px 25px;;
+}
+
+.vertical a{
+  margin-top: 25px;
 }
 
 /* ID's */
 
 #logotype{
-  font-size: 15px;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 10px;
   text-align: left;
   text-transform: uppercase;
+  margin: 10px 0;
 }
