@@ -31,7 +31,6 @@ p{
 }
 
 div{
-  border: solid black 2px;
   max-width: 700px;
 }
 
@@ -40,7 +39,7 @@ img{
   padding: 0;
   margin: 0;
   display: inline;
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
 ul{
@@ -50,14 +49,23 @@ ul{
   background-color: #333333;
 }
 
-a{
-  padding: 10px;
-  margin: 0 20px;
-  text-align: center;
+ol {
+  text-align: left;
+  list-style-position: inside;
+}
+
+li{
+  padding: 5px 0;
+}
+
+a {
+  color: #333333;
   text-decoration: none;
-  display: inline-block;
-  background-color: #333333;
-  color: #faf9f8;
+  /* margin: 15px; */
+}
+
+a:hover{
+  border: dashed #333333 0.5px;
 }
 
 em{
@@ -65,26 +73,7 @@ em{
 }
 
 /* classes */
-.nav{
-  font-size: 10px;
-  text-transform: uppercase;
-}
 
-.nav ul{
-  padding: 150px;
-}
-
-.nav li{
-  color: #faf9f8;
-  display: inline;
-}
-
-.nav a:hover{
-  background-color: #111111;
-}
-.nav a:active {
-  background-color: #111111;
-}
 
 .float-left{
   float: left;
@@ -104,14 +93,51 @@ em{
 
 .center{
   position: absolute;
+  text-align: center;
+  /* width: 100%; */
 }
 
 .vertical{
-  padding: 10px 25px;;
+  padding: 10px 25px;
+  display: flex;
+  flex-flow: column;
 }
 
 .vertical a{
   margin-top: 25px;
+}
+
+
+/* nav bar */
+.nav{
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.nav ul{
+  padding: 150px;
+}
+
+.nav li{
+  color: #faf9f8;
+  display: inline;
+}
+
+.nav a{
+  padding: 10px;
+  margin: 0 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #333333;
+  color: #faf9f8;
+}
+
+.nav a:hover{
+  background-color: #111111;
+}
+.nav a:active {
+  background-color: #111111;
 }
 
 /* ID's */
