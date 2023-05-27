@@ -23,11 +23,17 @@ h2{
 h3{
   font-size: 20px;
   margin-bottom: 25px;
+  text-transform: capitalize;
+}
+
+h4{
+  font-size: 15px;
+  text-transform: capitalize;
 }
 
 p{
   font-size: 13px;
-  margin-bottom: 5px;
+  margin: 5px 0;
 }
 
 div{
@@ -52,16 +58,18 @@ ul{
 ol {
   text-align: left;
   list-style-position: inside;
+  margin-bottom: 50px;
 }
 
 li{
-  padding: 5px 0;
+  padding: 1px ;
+  font-size: 13px;
 }
 
 a {
   color: #333333;
   text-decoration: none;
-  /* margin: 15px; */
+  padding: 0 5px;
 }
 
 a:hover{
@@ -70,6 +78,10 @@ a:hover{
 
 em{
   font-size: 9px;
+}
+
+span{
+  font-style: italic;
 }
 
 /* classes */
@@ -111,7 +123,7 @@ em{
 /* nav bar */
 .nav{
   font-size: 10px;
-  text-transform: uppercase;
+  text-transform:capitalize;
 }
 
 .nav ul{
@@ -148,4 +160,10 @@ em{
   text-align: left;
   text-transform: uppercase;
   margin: 10px 0;
+}
+
+#next-btn{
+  background-color: #333333;
+  color: #faf9f8;
+  padding: 7px;
 }
