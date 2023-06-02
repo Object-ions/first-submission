@@ -167,3 +167,8 @@ span{
   text-transform: uppercase;
   margin: 10px 0;
 }
+
+#gh-icon{
+  height: 80px;
+  width: 80px;
+}
