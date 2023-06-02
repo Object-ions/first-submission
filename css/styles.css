@@ -152,6 +152,12 @@ span{
   background-color: #111111;
 }
 
+.next-btn{
+  background-color: #333333;
+  color: #faf9f8;
+  padding: 7px;
+}
+
 /* ID's */
 
 #logotype{
@@ -160,10 +166,4 @@ span{
   text-align: left;
   text-transform: uppercase;
   margin: 10px 0;
-}
-
-#next-btn{
-  background-color: #333333;
-  color: #faf9f8;
-  padding: 7px;
 }
