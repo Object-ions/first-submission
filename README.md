@@ -1,8 +1,10 @@
 # _first-submission_
 
-#### By _**Moshe Atia Poston**_
+[Live demo:](https://github.com/Object-ions/first-submission.git)
 
-#### _Portfolis webpage (landing page)_
+#### By **Moshe Atia Poston**
+
+#### _Portfolio webpage (landing page)_
 
 ## Technologies Used
 
@@ -25,7 +27,7 @@ _This project is a portfolio webpage created using HTML and CSS. It serves as a 
 
 ## License
 
-MIT License (https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 Copyright (c) [2023] [Moshe Atia Poston]
 
