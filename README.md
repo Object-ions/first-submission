@@ -29,7 +29,7 @@ _This project is a portfolio webpage created using HTML and CSS. It serves as a 
 
 [MIT License](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) [2023] [Moshe Atia Poston]
+Copyright (c) 2023 Moshe Atia Poston
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
