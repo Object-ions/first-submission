@@ -1,6 +1,6 @@
 # _first-submission_
 
-[Live demo:](https://github.com/Object-ions/first-submission.git)
+Live demo: [GH-pages](https://object-ions.github.io/first-submission/)
 
 #### By **Moshe Atia Poston**
 
